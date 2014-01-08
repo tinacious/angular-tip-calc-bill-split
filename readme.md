@@ -2,7 +2,7 @@
 
 Calculate tip and split bills with this easy-to-use tip calculator and bill splitter built in Angular.js.
 
-[]()
+See it in action [here](http://tinacious.github.io/angular-tip-calc-bill-split/#/).
 
 ![Screenshot of the Tip Calculator and Bill Splitter](tip-calc-bill-split-screenshot.png)
 
